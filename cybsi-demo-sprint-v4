@@ -6,3 +6,6 @@ http://vpn-staging.rd.ptsecurity.ru:8000/?pgsql=whois_queue_postgres&username=wh
 
 // storage
 http://vpn-staging.rd.ptsecurity.ru:8000/?pgsql=whois_top_postgres&username=whois_storage&db=whois_storage&ns=public&select=whois
+
+// staging 2
+http://dtikhonov-staging.rd.ptsecurity.ru:8000/
