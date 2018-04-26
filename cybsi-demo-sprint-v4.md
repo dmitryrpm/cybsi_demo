@@ -1,21 +1,29 @@
-// misp
+MISP localhost feed
+
 https://misp-testing.rd.ptsecurity.ru/users/login
 
-// queue
+Database queue
+
 http://vpn-staging.rd.ptsecurity.ru:8000/?pgsql=whois_queue_postgres&username=whois_queue&db=whois_queue&ns=public&select=domains
 
-// storage
+Database storage
+
 http://vpn-staging.rd.ptsecurity.ru:8000/?pgsql=whois_top_postgres&username=whois_storage&db=whois_storage&ns=public&select=whois
 
-// haproxy admin
+Haproxy admin
+
 http://vpn-staging.rd.ptsecurity.ru:2090
 
-// Key
+Cerificate
+
 http://dtikhonov-staging.rd.ptsecurity.ru:7080/elOmj/client.pfx
 
-// API
+API
+
 https://vpn-staging.rd.ptsecurity.ru
 https://vpn-staging.rd.ptsecurity.ru/api/domains?limit=300
 
-// staging 2
+Staging 2
+
 http://dtikhonov-staging.rd.ptsecurity.ru:8000/
+
