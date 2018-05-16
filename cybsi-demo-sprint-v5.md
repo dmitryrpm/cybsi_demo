@@ -5,3 +5,5 @@ http://vpn-staging.rd.ptsecurity.ru:8000/?pgsql=misp_info_postgres&username=misp
 Add iam staging
 
 https://iam-staging.rd.ptsecurity.ru/
+
+https://10.0.214.144
